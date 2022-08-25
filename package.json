@@ -1,0 +1,13 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "PreTest API",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
